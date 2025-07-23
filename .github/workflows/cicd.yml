@@ -1,4 +1,4 @@
-name: CI/CD React App
+name: hello-world CI/CD
 
 on:
   push:
